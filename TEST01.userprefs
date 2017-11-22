@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Shooter2D.cs">
+    <Files>
+      <File FileName="Assets\Script\Shooter2D.cs" Line="154" Column="61" />
+      <File FileName="Assets\Script\Detect2D.cs" Line="174" Column="19" />
+      <File FileName="Assets\Script\GameManager.cs" Line="10" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
